@@ -1,0 +1,2 @@
+# Comprehensive-Data-Science-Project-Reporting-and-Strategic-Recommendations.
+Machine Learning Performance (Churn Classification): Compares Logistic Regression against Random Forest across 1,000 subscriber records, demonstrating Logistic Regression's superior discrimination (Accuracy: 77.0%, ROC-AUC: 0.843) and detailing key feature importances (tenure and contract type).Limitations, Future Work &amp; Technical Appendix: Discuss
